@@ -1,0 +1,25 @@
+set to passwd authentication  // https://aws.amazon.com/cn/premiumsupport/knowledge-center/ec2-password-login/
+sudo apt-get update/ upgrade
+set alias rm='rm -i'
+set super user passwd $sudo passwd root
+apt-get python
+apt-get gdb 
+apt-get cscope
+apt python-pip
+pip install pwntools
+apt install radare2
+apt install cmake
+dpkg --add-architecture i386 // add 32 bit lib
+apt-get update
+apt-get install libc6:i386 libstdc++6:i386
+sudo apt install libc6-dev-i386
+sudo apt-get install lib32z1
+install pwngdb https://github.com/pwndbg/pwndbg
+setup vim:
+1. git clone https://github.com/BeitongT/vim.git
+.vimrc => ~/
+molokai.vim => ~/.vim/colors 
+2. git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+3. auto format https://github.com/Chiel92/vim-autoformat install clang-format autopep8
+4. airline install font actually you should install the font on your host computer and set the font in your terminal. EX. iterm -> preference -> font to xxx for powerline
+4. you complete me  
