@@ -14,7 +14,7 @@ apt-get update
 apt-get install libc6:i386 libstdc++6:i386
 sudo apt install libc6-dev-i386
 sudo apt-get install lib32z1
-install pwngdb https://github.com/pwndbg/pwndbg
+install pwndbg https://github.com/pwndbg/pwndbg
 setup vim:
 1. git clone https://github.com/BeitongT/vim.git
 .vimrc => ~/
