@@ -1,2 +1,2 @@
 # vim
-my vimrc
+my ubuntu setting and vim setting
